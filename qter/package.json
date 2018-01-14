@@ -1,0 +1,13 @@
+{
+  "name": "qter",
+  "version": "0.1.0",
+  "private": false,
+  "author": "Andres Picazo",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
